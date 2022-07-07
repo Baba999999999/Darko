@@ -9,3 +9,35 @@ Chatbot
 <img width="539" alt="Image8 2a" src="https://user-images.githubusercontent.com/108518978/177099372-2c275f86-ab2b-42d3-8c04-e15f87c8b283.png">
 <img width="528" alt="Image8 2b" src="https://user-images.githubusercontent.com/108518978/177099413-9065f1a4-c82c-4049-899a-20d0b930c7b2.png">
 <img width="408" alt="Image8 5" src="https://user-images.githubusercontent.com/108518978/177099479-703c1fb8-a2fa-418a-857a-a3d69f611de3.png">
+
+
+
+<img width="519" alt="1" src="https://user-images.githubusercontent.com/108518978/177725638-8974d358-5821-42b9-902e-50f1a5673adc.png">
+<img width="528" alt="2" src="https://user-images.githubusercontent.com/108518978/177725681-80b6ae89-d1aa-4525-996b-1dddd80573f9.png">
+<img width="376" alt="3" src="https://user-images.githubusercontent.com/108518978/177725703-df53597b-67d8-4121-9dd6-d8cb8bb47054.png">
+<img width="439" alt="4" src="https://user-images.githubusercontent.com/108518978/177725718-bc8317d0-c054-49a1-b12e-70c170a879a7.png">
+<img width="290" alt="5" src="https://user-images.githubusercontent.com/108518978/177725728-c9586264-6492-434f-ab65-69a701f5340d.png">
+<img width="503" alt="6" src="https://user-images.githubusercontent.com/108518978/177725738-8e5a8b83-1abf-4154-9552-17e4a12b2ddb.png">
+<img width="413" alt="7" src="https://user-images.githubusercontent.com/108518978/177725757-01fc4b07-ac9b-4b2c-bbd6-fa0f92823b80.png">
+<img width="453" alt="8" src="https://user-images.githubusercontent.com/108518978/177725773-fda983e8-79b7-47d3-adb6-29f94bc0e19a.png">
+<img width="518" alt="9" src="https://user-images.githubusercontent.com/108518978/177725792-009f462a-f0c3-4cfd-bf0d-07817f754add.png">
+<img width="522" alt="10" src="https://user-images.githubusercontent.com/108518978/177725812-696c9f85-7319-4992-8816-f00a45f56da7.png">
+<img width="527" alt="11" src="https://user-images.githubusercontent.com/108518978/177725850-a6223e11-4e85-462d-8b8c-1110628aee78.png">
+<img width="516" alt="12" src="https://user-images.githubusercontent.com/108518978/177725859-f8acc700-0aeb-4daf-8824-aef2d2afc3bf.png">
+<img width="518" alt="13" src="https://user-images.githubusercontent.com/108518978/177725871-f9f810df-3261-4e3c-b77e-181622f8f4fc.png">
+<img width="515" alt="14" src="https://user-images.githubusercontent.com/108518978/177725881-ab1a5acb-87bf-443d-b8b9-ac6c04d11028.png">
+<img width="431" alt="15" src="https://user-images.githubusercontent.com/108518978/177725894-623bc872-3e7c-4bbd-918d-7a1c7a042b5d.png">
+<img width="566" alt="16" src="https://user-images.githubusercontent.com/108518978/177725902-958fca6b-d607-4a01-8d65-f91d2adbcd0f.png">
+<img width="467" alt="17" src="https://user-images.githubusercontent.com/108518978/177725922-933fef7d-e0fc-4825-8b52-4ab819919e00.png">
+<img width="351" alt="18" src="https://user-images.githubusercontent.com/108518978/177725936-eb6c3d0b-b786-46eb-964c-9bbfe37c28b1.png">
+<img width="143" alt="19" src="https://user-images.githubusercontent.com/108518978/177725972-3e78f6f0-ec75-4c08-a707-0f4c66325071.png">
+<img width="204" alt="20" src="https://user-images.githubusercontent.com/108518978/177725984-f61b1eeb-bf38-4631-9189-08735db21fae.png">
+<img width="487" alt="21" src="https://user-images.githubusercontent.com/108518978/177725994-1bb80767-c959-4fc2-aaa6-5b06afda9b9a.png">
+<img width="317" alt="22" src="https://user-images.githubusercontent.com/108518978/177726009-bda35b39-9cc7-46bb-81e9-e407678c1969.png">
+<img width="413" alt="23" src="https://user-images.githubusercontent.com/108518978/177726022-bbf5a9cd-d268-4d0a-8cee-fc442325070a.png">
+<img width="510" alt="24" src="https://user-images.githubusercontent.com/108518978/177726036-320550bb-28ed-4782-8333-64782a1ed183.png">
+<img width="490" alt="25" src="https://user-images.githubusercontent.com/108518978/177726046-5b449ff2-46ed-4982-8ee9-13815c9d0fed.png">
+<img width="493" alt="26" src="https://user-images.githubusercontent.com/108518978/177726055-6832da95-0cc4-489d-ade4-5ed61b7a188f.png">
+<img width="314" alt="27" src="https://user-images.githubusercontent.com/108518978/177726065-adf4dde1-ee7d-4531-a5ca-7bca75fb25d3.png">
+<img width="424" alt="28" src="https://user-images.githubusercontent.com/108518978/177726074-62d0d554-a3ac-4151-8e78-7679dae130ad.png">
+<img width="418" alt="29" src="https://user-images.githubusercontent.com/108518978/177726137-ed3110ac-936a-4087-add6-4978a71968b3.png">
