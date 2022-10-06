@@ -44,4 +44,4 @@ Chatbot
 ![Poster Guide 2](https://user-images.githubusercontent.com/108518978/194195338-6a977cdd-dcb7-4839-82e5-8ee3cd532550.jpg)
 <img width="958" alt="P[Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720901/Meeting.Room.Guide.pdf)
 oster Guide" src="https://user-images.githubusercontent.com/108518978/194197354-ec3d4743-1dce-493c-a0bf-f05068965783.png">
-[Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720908/Meeting.Room.Guide.pdf)
+[6 Pax Video Conference Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720914/6.Pax.Video.Conference.Meeting.Room.Guide.pdf)
