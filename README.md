@@ -45,5 +45,3 @@ Chatbot
 [6 Pax Video Conference Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720914/6.Pax.Video.Conference.Meeting.Room.Guide.pdf)
 [Quick Trobleshoot.pdf](https://github.com/Baba999999999/Darko/files/9721057/Quick.Trobleshoot.pdf)
 [Quick Tips.pdf](https://github.com/Baba999999999/Darko/files/9721181/Quick.Tips.pdf)
-
-
