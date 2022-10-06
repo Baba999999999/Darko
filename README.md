@@ -42,4 +42,5 @@ Chatbot
 <img width="424" alt="28" src="https://user-images.githubusercontent.com/108518978/177726074-62d0d554-a3ac-4151-8e78-7679dae130ad.png">
 <img width="418" alt="29" src="https://user-images.githubusercontent.com/108518978/177726137-ed3110ac-936a-4087-add6-4978a71968b3.png">
 ![Poster Guide 2](https://user-images.githubusercontent.com/108518978/194195338-6a977cdd-dcb7-4839-82e5-8ee3cd532550.jpg)
-<img width="958" alt="Poster Guide" src="https://user-images.githubusercontent.com/108518978/194197354-ec3d4743-1dce-493c-a0bf-f05068965783.png">
+<img width="958" alt="P[Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720901/Meeting.Room.Guide.pdf)
+oster Guide" src="https://user-images.githubusercontent.com/108518978/194197354-ec3d4743-1dce-493c-a0bf-f05068965783.png">
