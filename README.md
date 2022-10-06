@@ -43,3 +43,4 @@ Chatbot
 <img width="418" alt="29" src="https://user-images.githubusercontent.com/108518978/177726137-ed3110ac-936a-4087-add6-4978a71968b3.png">
 [6 Pax Video Conference Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9723432/6.Pax.Video.Conference.Meeting.Room.Guide.pdf)
 [Quick Trobleshoot Steps.pdf](https://github.com/Baba999999999/Darko/files/9723437/Quick.Trobleshoot.Steps.pdf)
+[Quick Trobleshoot Steps.pdf](https://github.com/Baba999999999/Darko/files/9723475/Quick.Trobleshoot.Steps.pdf)
