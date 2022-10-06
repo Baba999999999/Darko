@@ -45,3 +45,4 @@ Chatbot
 <img width="958" alt="P[Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720901/Meeting.Room.Guide.pdf)
 oster Guide" src="https://user-images.githubusercontent.com/108518978/194197354-ec3d4743-1dce-493c-a0bf-f05068965783.png">
 [6 Pax Video Conference Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720914/6.Pax.Video.Conference.Meeting.Room.Guide.pdf)
+[Quick Trobleshoot.pdf](https://github.com/Baba999999999/Darko/files/9721057/Quick.Trobleshoot.pdf)
