@@ -45,3 +45,4 @@ Chatbot
 [Quick Trobleshoot Steps.pdf](https://github.com/Baba999999999/Darko/files/9723437/Quick.Trobleshoot.Steps.pdf)
 [Quick Trobleshoot Steps.pdf](https://github.com/Baba999999999/Darko/files/9723475/Quick.Trobleshoot.Steps.pdf)
 [Quick Tips.pdf](https://github.com/Baba999999999/Darko/files/9723654/Quick.Tips.pdf)
+[Quick Trobleshoot Steps.pdf](https://github.com/Baba999999999/Darko/files/9723983/Quick.Trobleshoot.Steps.pdf)
