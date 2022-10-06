@@ -46,4 +46,5 @@ Chatbot
 oster Guide" src="https://user-images.githubusercontent.com/108518978/194197354-ec3d4743-1dce-493c-a0bf-f05068965783.png">
 [6 Pax Video Conference Meeting Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9720914/6.Pax.Video.Conference.Meeting.Room.Guide.pdf)
 [Quick Trobleshoot.pdf](https://github.com/Baba999999999/Darko/files/9721057/Quick.Trobleshoot.pdf)
-<img width="580" alt="Quick Tips" src="https://user-images.githubusercontent.com/108518978/194212123-7b6f2139-974b-4409-a37e-5b3d7c5108d4.png">
+<img width="577" alt="Quick Tips" src="https://user-images.githubusercontent.com/108518978/194212246-eec587df-50f6-422f-9816-69ea355d1176.png">
+
