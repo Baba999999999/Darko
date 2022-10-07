@@ -47,3 +47,4 @@ Chatbot
 [Quick Tips.pdf](https://github.com/Baba999999999/Darko/files/9723654/Quick.Tips.pdf)
 [Quick Trobleshoot Steps.pdf](https://github.com/Baba999999999/Darko/files/9723983/Quick.Trobleshoot.Steps.pdf)
 [Quick Tips.pdf](https://github.com/Baba999999999/Darko/files/9724003/Quick.Tips.pdf)
+https://app.image-maps.com/m/private/0/9j8klcr0e5hdbldn7l5dkluua0_quick-tips.png
