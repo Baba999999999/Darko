@@ -50,5 +50,5 @@ Chatbot
 https://app.image-maps.com/m/private/0/9j8klcr0e5hdbldn7l5dkluua0_quick-tips.png
 [Agile and Success Guide Book.pdf](https://github.com/Baba999999999/Darko/files/9731833/Agile.and.Success.Guide.Book.pdf)
 [Quick Guide for Success and Agile.pdf](https://github.com/Baba999999999/Darko/files/9731859/Quick.Guide.for.Success.and.Agile.pdf)
-[Bravo Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9827249/Bravo.Room.Guide.pdf)
-[Bravo Quick Guide.pdf](https://github.com/Baba999999999/Darko/files/9827269/Bravo.Quick.Guide.pdf)
+[Bravo Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9828658/Bravo.Room.Guide.pdf)
+
