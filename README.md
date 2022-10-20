@@ -52,4 +52,5 @@ https://app.image-maps.com/m/private/0/9j8klcr0e5hdbldn7l5dkluua0_quick-tips.png
 [Quick Guide for Success and Agile.pdf](https://github.com/Baba999999999/Darko/files/9731859/Quick.Guide.for.Success.and.Agile.pdf)
 [Bravo Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9828658/Bravo.Room.Guide.pdf)
 [Bravo Quick Guide.pdf](https://github.com/Baba999999999/Darko/files/9828673/Bravo.Quick.Guide.pdf)
+[Unique Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9828734/Unique.Room.Guide.pdf)
 
