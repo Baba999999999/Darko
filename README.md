@@ -52,6 +52,10 @@ https://app.image-maps.com/m/private/0/9j8klcr0e5hdbldn7l5dkluua0_quick-tips.png
 [Quick Guide for Success and Agile.pdf](https://github.com/Baba999999999/Darko/files/9731859/Quick.Guide.for.Success.and.Agile.pdf)
 [Bravo Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9828658/Bravo.Room.Guide.pdf)
 [Bravo Quick Guide.pdf](https://github.com/Baba999999999/Darko/files/9828673/Bravo.Quick.Guide.pdf)
+![images (6)](https://github.com/Baba999999999/Darko/assets/108518978/13fb4901-4a9c-42f2-84f2-0f5848ff250f)
+![images (5)](https://github.com/Baba999999999/Darko/assets/108518978/1ef88505-057a-4aa9-90a9-c056068a3045)
+
+
 [Unique Room Guide.pdf](https://github.com/Baba999999999/Darko/files/9828734/Unique.Room.Guide.pdf)
 [Unique Room Quick Guide.pdf](https://github.com/Baba999999999/Darko/files/9828755/Unique.Room.Quick.Guide.pdf)
 ![depositphotos_62677103-stock-photo-puzzle-button-tech-support](https://github.com/Baba999999999/Darko/assets/108518978/354859e3-dbcb-4d91-aff2-246935c105e1)
